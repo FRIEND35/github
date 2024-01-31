@@ -18,3 +18,9 @@ for i in "test.":
         break
     else:
         print("This is", i)
+
+def finish():
+
+    print("Finish")
+
+finish()
