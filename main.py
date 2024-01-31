@@ -4,3 +4,8 @@ def main():
 
 
 main()
+
+def func():
+    print("Functions is running")
+
+func()
